@@ -1,0 +1,15 @@
+.footer{
+    background: black;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+    padding: 10px;
+}
+.headtext__cormorant{
+    margin-bottom: 50px;
+}
+
+
+.p__opensans__footer{
+    margin-top: 50px;
+}
